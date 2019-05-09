@@ -17,7 +17,6 @@ namespace Testes
 
             int total = (a > b) ? a += 10 : b += 10;
             Console.WriteLine("Alteração 1");
-            Console.WriteLine("Alteração 2");
             Console.WriteLine(total);
             Console.ReadKey();
         }
